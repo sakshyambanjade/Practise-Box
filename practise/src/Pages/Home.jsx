@@ -26,8 +26,14 @@ function PracticeTracker() {
           <br></br>
           <tr>
             <td>2</td>
-            <td>Practice 2</td>
-            <Link to="/practice2" className="practice-button">Go to Practice 2</Link>
+            <td>UseState</td>
+            <Link to="/UseState" className="practice-button">Go to UseState</Link>
+          </tr>
+          <br></br>
+          <tr>
+            <td>2</td>
+            <td>UseState</td>
+            <Link to="/apicalling" className="practice-button">Go to Api-Calling</Link>
           </tr>
           {/* Add more rows as needed */}
         </tbody>
